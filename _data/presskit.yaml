@@ -1,20 +1,14 @@
-title: "Company Name"
+title: "CuboCombo"
 founded: "September 1, 2010"
 website: "website.com"
-city: "Cityville, Metropolisland"
-press: "press-contact@company.com"
-phone: "+00 (1) 22 33 44 55 66"
-address: 
-  - "Address Line 1"
-  - "Address Line 2"
-  - "Address Line 3"
+city: "Rio de Janeiro"
+press: "happytripodgames@gmail.com"
 
 social: 
-  twitter: "MyTwitter"
-  facebook: "MyCompanyName"
-  skype: "callto:MySkypeName"
+  twitter: "CuboCombo"
+  facebook: "CuboCombo"
 
-description: "We're a games studio and we make games. We're also capable of editing YAML files."
+description: "A 3D match 3 game"
 
 history: 
   - header: "Early history"
@@ -24,26 +18,13 @@ history:
 
 trailers: 
   - name: "This video is nice"
-    youtube: "7jQbITg0MSk"
-  - name: "This one too"
-    youtube: "0CevOaYrYDA"
-    vimeo: "12536488"
+    youtube: "EV8vHItyHxI"
 
 awards: 
-  - description: "Winner in this highly relevant contest."
-    info: "Award Location, 20 October, 1989"
-  - description: "Nomination for this prestigious award."
-    info: "Award Ceremony, 4 December, 1991"
-  - description: "Winner in this highly relevant contest."
-    info: "Award Location, 20 October, 1989"
-  - description: "Nomination for this prestigious award."
-    info: "Award Ceremony, 4 December, 1991"
+  - description: "MELHOR TCP4 DA HISTÓRIA DO IFRJ"
+    info: "Um jogo com mecânicas inovadoras, sistemas de venda e personalização e já lançado na Playstore no dia da entrega não podia ser menos que isso"
 
 quotes: 
-  - description: "This is a rather insignificant quote by a highly important person."
-    name: "Person Name"
-    website: Website
-    link: "http://www.website.com/"
   - description: "An extremely positive quote from a rather insignificant person. Also great."
     name: "Some Guy"
     website: "This Page Is Visited By 12 Visitors A Month"
@@ -66,21 +47,19 @@ additionals:
     link: "http://somemusicsite.com/thislink"
 
 credits: 
-  - person: "John Doe"
-    role: "Artist, Freelancer"
-  - person: "Oliver Twist"
+  - person: "Diego Almeida"
+    role: "Programer"
+  - person: "Ruan Duarte Ramalho"
     website: "www.olivertwist.com"
-    role: "Artist, Freelancer"
-  - person: "Jane Doette"
-    website: "www.olivertwist.com"
-    role: "Music, Freelancer"
+    role: "Game Designer, 2D artist"
+  - person: "Vitor Gabriel"
+    website: "souvitorgabriel.github.io"
+    role: "3D artist"
 
-contacts: 
-  - name: Inquiries
-    address: "rami@vlambeer.com"
-  - name: Twitter
-    address: "http://twitter.com/MyCompanyName"
+contacts:   
   - name: Facebook
-    address: "http://facebook.com/MyCompanyName"
-  - name: Web
-    address: "MyCompanyWebsite.com"
+    address: "http://facebook.com/CuboCombo"
+  - name: Instagram
+    address: "http://instagram.com/CuboCombo"
+  - name: Twitter
+    address: "http://twitter.com/CuboCombo"
